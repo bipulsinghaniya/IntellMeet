@@ -2,6 +2,9 @@
 
 > An ultra-interactive, production-grade demo website for **IntellMeet AI**, built with **HTML5, CSS3, and JavaScript (ES6+)** featuring **WebRTC video conferencing, OpenAI realtime transcription & diarization, smart action item extraction, and live AI Copilot.**
 
+🔗 **Live Demo:** [https://effervescent-licorice-3aacb8.netlify.app/](https://effervescent-licorice-3aacb8.netlify.app/)  
+💻 **GitHub Repository:** [https://github.com/bipulsinghaniya/IntellMeet](https://github.com/bipulsinghaniya/IntellMeet)
+
 ---
 
 ## 🌟 Key Features & Interactive Capabilities
