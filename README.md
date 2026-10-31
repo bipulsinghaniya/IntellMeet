@@ -3,7 +3,9 @@
 > An ultra-interactive, production-grade demo website for **IntellMeet AI**, built with **HTML5, CSS3, and JavaScript (ES6+)** featuring **WebRTC video conferencing, OpenAI realtime transcription & diarization, smart action item extraction, and live AI Copilot.**
 
 🔗 **Live Demo:** [https://effervescent-licorice-3aacb8.netlify.app/](https://effervescent-licorice-3aacb8.netlify.app/)  
-💻 **GitHub Repository:** [https://github.com/bipulsinghaniya/IntellMeet](https://github.com/bipulsinghaniya/IntellMeet)
+💻 **GitHub Repository:** [https://github.com/bipulsinghaniya/IntellMeet](https://github.com/bipulsinghaniya/IntellMeet)  
+📄 **Written Documentation (PDF):** [IntellMeet_Documentation.pdf](file:///c:/Users/singh/OneDrive/Desktop/INTELLIPAT_ZIDIO/IntellMeet_Documentation.pdf)  
+📹 **Video Demo / Drive Recording:** [Watch the project recording](https://drive.google.com/file/d/13QeOQaMQXLbKN1MC3Gn6lPSwYj5cQMbY/view?usp=sharing)
 
 ---
 
@@ -62,10 +64,11 @@ Then open `http://localhost:3000` or `http://localhost:8080`.
 ## 📁 File Structure
 
 ```
-├── index.html       # Semantic HTML5 structure, modals, layouts, and Lucide icons
-├── style.css        # Modern glassmorphism dark-theme design system and responsive grid
-├── app.js           # Realtime meeting simulator, Web Audio synthesizer, WebRTC, AI Copilot
-├── task.md          # Project specification brief
-└── README.md        # Documentation and walkthrough
+├── index.html                  # Semantic HTML5 structure, modals, layouts, and Lucide icons
+├── style.css                   # Modern glassmorphism dark-theme design system and responsive grid
+├── app.js                      # Realtime meeting simulator, Web Audio synthesizer, WebRTC, AI Copilot
+├── IntellMeet_Documentation.pdf # Comprehensive 8-page technical documentation & architecture report
+├── FEEDBACK.md                 # Personal reflection, learnings, challenges faced & takeaways
+├── task.md                     # Project specification brief
+└── README.md                   # Documentation and walkthrough
 ```
-
