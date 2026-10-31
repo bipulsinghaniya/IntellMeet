@@ -4,7 +4,7 @@
 
 🔗 **Live Demo:** [https://effervescent-licorice-3aacb8.netlify.app/](https://effervescent-licorice-3aacb8.netlify.app/)  
 💻 **GitHub Repository:** [https://github.com/bipulsinghaniya/IntellMeet](https://github.com/bipulsinghaniya/IntellMeet)  
-📄 **Written Documentation (PDF):** [IntellMeet_Documentation.pdf](file:///c:/Users/singh/OneDrive/Desktop/INTELLIPAT_ZIDIO/IntellMeet_Documentation.pdf)  
+📄 **Written Documentation (PDF):** [IntellMeet_Documentation.pdf](https://drive.google.com/file/d/1sPQcuXVjvMEfNEx3zRTB9djf9qnULVoH/view)  
 📹 **Video Demo / Drive Recording:** [Watch the project recording](https://drive.google.com/file/d/13QeOQaMQXLbKN1MC3Gn6lPSwYj5cQMbY/view?usp=sharing)
 
 ---
